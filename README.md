@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Toltecon   
-- 👀 I’m interested in                                      
+- 👀 I’m interested in                                       
 - 🌱 I’m currently learning            
      
 Toltecon/Toltecon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
